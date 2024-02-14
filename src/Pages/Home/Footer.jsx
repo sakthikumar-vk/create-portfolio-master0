@@ -9,7 +9,7 @@ function Footer() {
 
         <div className='flex items-center justify-center flex-col mt-10 opacity-70'>
             <h1 className="text-white">
-                Designed and Developed by 
+                Designed and  by 
             </h1>
             <h1 className="text-white">
                 Sakthikumar
