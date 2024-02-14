@@ -1,4 +1,4 @@
-export const project = [
+export const projects = [
     {
         technologies :[],
         title : "URL shortner",

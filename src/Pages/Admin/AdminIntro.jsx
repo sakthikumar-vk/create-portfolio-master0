@@ -8,6 +8,8 @@ import { config } from "../../config/Config";
 function AdminIntro() {
   const dispatch = useDispatch();
   const { portfolioData } = useSelector((state) => state.root);
+  console.log(portfolioData)
+  
   const onFinish = async (values) => {
     try {
       dispatch(Showloading());
