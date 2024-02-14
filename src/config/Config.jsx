@@ -1,3 +1,3 @@
 export const config = {
-    userApi : "https://dynamic-portfolio-backend.onrender.com"
+    userApi : "https://http://localhost:8080"
 }
