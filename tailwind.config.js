@@ -6,16 +6,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "primary": "#3F3F3F",
-        "secondary": "#666666",
-        "tertiary": "#EEEEEC",
-        "quaternary": "#E5E5E5",
-        "quinary": "#FFFFFF",
-        "senary": "#333333"
-
-
-
+        "primary": "#0B1A2E",
+        "secondary": "#F87215",
+        "tertiary": "#53D5BA",
+        "fourth": "#F0F0F0",
+        "fifth": "#333333",
+        "sixth": "#980000"
       }
+      
     },
     screens: {
       'sm': '640px',

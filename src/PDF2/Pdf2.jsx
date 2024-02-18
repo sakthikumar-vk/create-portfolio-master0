@@ -53,7 +53,7 @@ function Pdf2() {
                 />
                 <div className="flex items-center justify-center">
                   <Link
-                    className="w-1/2 px-6 py-3 m-4 duration-200  hover:bg-pink  bg-white text-black  rounded-lg"
+                    className="w-1/2 px-6 py-3 m-4 duration-200  hover:bg-white  bg-pink text-black  rounded-lg"
                     to={link}
                   >
                     Choose
